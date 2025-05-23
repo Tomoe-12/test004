@@ -1,0 +1,5 @@
+{
+    "wp_api_url" : "https://api.wordpress.org/plugins/info/1.2/",
+    "wp_api_request_limit" : 100, 
+    "wp_api_total_pages": 3
+}
